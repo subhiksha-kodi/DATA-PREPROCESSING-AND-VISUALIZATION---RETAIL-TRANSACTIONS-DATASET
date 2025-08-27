@@ -19,8 +19,7 @@ It covers **data cleaning, preprocessing, encoding, scaling, and visualization**
 
 ---
 
-### 🔹 2. Visualizations (All Plots 🖼️)  
-> Each visualization is generated individually (✅ no subplots).  
+### 🔹 2. Visualizations (All Plots 🖼️)   
 
 1. **Age Distribution of Customers**  
    - KDE Plot of Age  
